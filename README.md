@@ -1,3 +1,7 @@
+### personal_brand_website
+Creating Personal brand website by learning a new stack including typescript, nextJS, Sanity, and tailwindCSS
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
